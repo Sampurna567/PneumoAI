@@ -6,13 +6,13 @@ PulmoAI is an **AI-powered medical diagnostic platform** that detects pneumonia 
 
 ## Features
 
-* 🔍 **Pneumonia Detection** from chest X-ray images
-* 🤖 **Transfer Learning (MobileNetV2)** for high-performance classification
-* 🌐 **Flask Web App** for real-time predictions
-* 📋 **Patient Data Input** (age, gender, medical history)
-* 📊 **Prediction Dashboard** with confidence score & recommendations
-* 🗂️ **History Tracking** using SQLite database
-* 🔐 **User Authentication** (login/signup system)
+*  **Pneumonia Detection** from chest X-ray images
+*  **Transfer Learning (MobileNetV2)** for high-performance classification
+*  **Flask Web App** for real-time predictions
+*  **Patient Data Input** (age, gender, medical history)
+*  **Prediction Dashboard** with confidence score & recommendations
+*  **History Tracking** using SQLite database
+*  **User Authentication** (login/signup system)
 
 ---
 
@@ -55,28 +55,6 @@ User → Web Interface → Flask Backend → ML Model → Prediction → Databas
 * HTML, CSS
 
 ---
-
-## Project Structure
-
-pneumonia_project/
-│
-├── app.py
-├── predict.py
-├── train_model.py
-├── pneumonia_mobilenetv2_binary.keras
-├── database.db
-│
-├── static/
-│   └── uploads/
-│
-├── templates/
-│   ├── login.html
-│   ├── signup.html
-│   ├── dashboard.html
-│   ├── result.html
-│   ├── history.html
-│   └── layout.html
-```
 
 ## How to Run
 
