@@ -1,14 +1,10 @@
-Here’s a **clean, professional, high-impact GitHub README** (not too long, not too basic — perfect for recruiters + professors 👇). You can paste this directly into your `README.md`.
-
----
-
-# 🫁 PulmoAI – Intelligent Pneumonia Diagnostic System
+# PneumoAI – Intelligent Pneumonia Diagnostic System
 
 PulmoAI is an **AI-powered medical diagnostic platform** that detects pneumonia from chest X-ray images using deep learning. The system combines a trained CNN model with a Flask-based web application to provide **real-time predictions, patient data integration, and history tracking**, simulating a clinical workflow.
 
 ---
 
-## 🚀 Features
+## Features
 
 * 🔍 **Pneumonia Detection** from chest X-ray images
 * 🤖 **Transfer Learning (MobileNetV2)** for high-performance classification
